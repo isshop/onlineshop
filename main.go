@@ -14,6 +14,7 @@ func init() {
 }
 
 func main() {
+	//测试
 	beego.Run()
 
 }
